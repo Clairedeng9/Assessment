@@ -50,6 +50,9 @@ SP500 and the two individual oil companies CVX and XOM are related to gas price,
 
 ![image](https://user-images.githubusercontent.com/103073631/189786242-ec3de6f4-9cf6-49e3-ab18-817a7741a4f5.png)
 
+![image](https://user-images.githubusercontent.com/103073631/189786430-74146b44-443c-4c6b-a588-f93dbe162c44.png)
+
+See more details in [Google Slide](https://docs.google.com/presentation/d/1g-wiozkn8TRJa1SklJrCTKV2E0PoE5pEpq2GHLDPEtY/edit)
 
 
 
